@@ -1,0 +1,15 @@
+[
+  "test_Lab3.py::test_bubble_sort_ascending",
+  "test_Lab3.py::test_bubble_sort_descending",
+  "test_Lab3.py::test_bubble_sort_invalid",
+  "test_Lab3.py::test_bubble_sort_not_integers",
+  "test_Lab3.py::test_more_equal",
+  "test_bmi.py::test_bmi_normal_weight",
+  "test_bmi.py::test_bmi_over_weight",
+  "test_bmi.py::test_bmi_under_weight",
+  "test_employee_info.py::test_calc_avg_salary",
+  "test_employee_info.py::test_get_employees_by_age_range",
+  "test_employee_info.py::test_get_employees_by_dept",
+  "test_price_info.py::test_cost_of_fruit",
+  "test_price_info.py::test_total_cost_shopping"
+]
